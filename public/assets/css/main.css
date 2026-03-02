@@ -427,7 +427,7 @@
 .hero-tab-btn.active,
 .hero-tab-btn:focus {
     color: #111;
-    border-bottom-color: #ffdd00;
+    border-bottom-color: #b88600; /* Darker amber for better contrast (3:1) on light bg */
     background: #fffef0;
     outline: none;
 }
