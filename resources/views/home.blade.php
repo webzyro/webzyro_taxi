@@ -1,3 +1,5 @@
 <x-layout>
-    <h1>Hello World!</h1>
+    <x-hero />
+
+    <x-step-process />
 </x-layout>
