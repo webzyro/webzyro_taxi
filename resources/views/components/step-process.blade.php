@@ -60,7 +60,7 @@
                 <div class="step-item text-center">
                     <div class="step-circle-wrapper mx-auto mb-4">
                         <div class="step-circle">
-                            <i class="fa-solid fa-house-chimney-check step-icon"></i>
+                            <i class="fa-solid fa-house-chimney step-icon"></i>
                             <div class="step-number">4</div>
                         </div>
                     </div>
